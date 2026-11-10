@@ -1,0 +1,23 @@
+{
+  "_ayuda": "Una entrada por audio. 'dijo' es lo que REALMENTE dijeron (para comparar con la transcripcion). 'ruido' = true si tiene ruido de fondo. Los nombres deben coincidir con los archivos de esta carpeta.",
+  "audio1.m4a": {
+    "hablante": "Juan David",
+    "ruido": false,
+    "dijo": "¿Qué significa que la placa de un motor monofásico indique doscientos treinta voltios, cincuenta hertz y un grado de protección IP cincuenta y cinco?"
+  },
+  "audio2.m4a": {
+    "hablante": "Danna Michel",
+    "ruido": false,
+    "dijo": "¿Cómo se relaciona una velocidad de mil cuatrocientos diez revoluciones por minuto con el número de polos de un motor asíncrono a cincuenta hertz?"
+  },
+  "audio3.m4a": {
+    "hablante": "Juan David",
+    "ruido": true,
+    "dijo": "¿Qué diferencia hay entre la conexión delta y la conexión estrella en un motor trifásico de doscientos treinta y cuatrocientos voltios?"
+  },
+  "audio4.m4a": {
+    "hablante": "Danna Michel",
+    "ruido": false,
+    "dijo": "¿Qué significa la referencia seis mil doscientos cinco ZZ C3 de los rodamientos de un motor eléctrico?"
+  }
+}

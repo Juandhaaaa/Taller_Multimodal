@@ -1,0 +1,29 @@
+{
+  "imagenes/imagen1.png": {
+    "marca": "CEMER",
+    "modelo": "MYTE 802-4",
+    "voltaje_v": "230",
+    "frecuencia_hz": 50,
+    "potencia_kw": 0.75,
+    "rpm": 1410,
+    "grado_proteccion": "IP55"
+  },
+  "imagenes/imagen2.png": {
+    "marca": "SIEMENS",
+    "modelo": "1LE0022-0EB4",
+    "voltaje_v": "230V/400V",
+    "frecuencia_hz": 50,
+    "potencia_kw": 1.5,
+    "rpm": 1425,
+    "grado_proteccion": "IP55"
+  },
+  "imagenes/imagen3.png": {
+    "marca": "WEG",
+    "modelo": "W22 Premium",
+    "voltaje_v": "220/380",
+    "frecuencia_hz": 60,
+    "potencia_kw": 0.75,
+    "rpm": 1725,
+    "grado_proteccion": "IP55"
+  }
+}

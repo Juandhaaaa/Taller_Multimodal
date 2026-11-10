@@ -1,0 +1,6 @@
+| Audio | Hablante | Condición | Duración (s) | Lo que se dijo | Transcripción |
+|---|---|---|---|---|---|
+| audio1.m4a | Juan David | sin ruido | 13.5 | ¿Qué significa que la placa de un motor monofásico indique doscientos treinta voltios, cincuenta hertz y un grado de protección IP cincuenta y cinco? | ¿Qué significa que la placa del motor monofásico indique 230 voltios, 50 hertz y un grado de protección IP 55? |
+| audio2.m4a | Danna Michel | sin ruido | 12.0 | ¿Cómo se relaciona una velocidad de mil cuatrocientos diez revoluciones por minuto con el número de polos de un motor asíncrono a cincuenta hertz? | ¿Cómo se relaciona una velocidad de 1410 revoluciones por minuto con el número de polos de un motor asincrónico de 50 Hz? |
+| audio3.m4a | Juan David | con ruido | 11.8 | ¿Qué diferencia hay entre la conexión delta y la conexión estrella en un motor trifásico de doscientos treinta y cuatrocientos voltios? | ¿Qué diferencia hay entre la conexión delta y la conexión estrella del motor trifásico de 230 y 400 voltios? |
+| audio4.m4a | Danna Michel | sin ruido | 10.6 | ¿Qué significa la referencia seis mil doscientos cinco ZZ C3 de los rodamientos de un motor eléctrico? | ¿Qué significa la referencia 6205 ZZC3 del rodamiento de un motor eléctrico? |

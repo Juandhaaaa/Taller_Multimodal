@@ -1,0 +1,22 @@
+[
+  {
+    "archivo": "audio1.m4a",
+    "texto": "¿Qué significa que la placa del motor monofásico indique 230 voltios, 50 hertz y un grado de protección IP 55?",
+    "duracion": 13.482687488
+  },
+  {
+    "archivo": "audio2.m4a",
+    "texto": "¿Cómo se relaciona una velocidad de 1410 revoluciones por minuto con el número de polos de un motor asincrónico de 50 Hz?",
+    "duracion": 11.989312512
+  },
+  {
+    "archivo": "audio3.m4a",
+    "texto": "¿Qué diferencia hay entre la conexión delta y la conexión estrella del motor trifásico de 230 y 400 voltios?",
+    "duracion": 11.84
+  },
+  {
+    "archivo": "audio4.m4a",
+    "texto": "¿Qué significa la referencia 6205 ZZC3 del rodamiento de un motor eléctrico?",
+    "duracion": 10.602687488
+  }
+]

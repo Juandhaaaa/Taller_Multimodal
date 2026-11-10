@@ -1,0 +1,34 @@
+{
+  "_ayuda": "EDITA ESTE ARCHIVO con tu dominio, tus imagenes y tus preguntas. Es lo unico que debes cambiar para adaptar los scripts.",
+
+  "dominio": "manuales tecnicos y placas de motores electricos industriales",
+  "vocabulario_audio": "motor asíncrono, grado de protección IP55, conexión delta, conexión estrella, rodamiento 6205 ZZ C3, revoluciones por minuto, deslizamiento",
+
+  "p1_1": {
+    "imagen": "imagenes/imagen1.png",
+    "pregunta": "¿Cuál es el voltaje, la potencia en kW y la velocidad en RPM de este motor, y qué grado de protección IP tiene?"
+  },
+
+  "p1_2": {
+    "imagenes": ["imagenes/imagen1.png", "imagenes/imagen2.png", "imagenes/imagen3.png"],
+    "campos": [
+      {"nombre": "marca",             "tipo": "string", "descripcion": "Fabricante del motor (el nombre del logo)"},
+      {"nombre": "modelo",            "tipo": "string", "descripcion": "Codigo o nombre del modelo del motor"},
+      {"nombre": "voltaje_v",         "tipo": "string", "descripcion": "Voltaje nominal en voltios, como texto, tal como aparece en la primera fila (ejemplo: '220/380')"},
+      {"nombre": "frecuencia_hz",     "tipo": "number", "descripcion": "Frecuencia nominal en Hz de la primera fila"},
+      {"nombre": "potencia_kw",       "tipo": "number", "descripcion": "Potencia nominal en kW de la primera fila"},
+      {"nombre": "rpm",               "tipo": "number", "descripcion": "Velocidad nominal en revoluciones por minuto de la primera fila"},
+      {"nombre": "grado_proteccion",  "tipo": "string", "descripcion": "Grado de proteccion IP sin espacios (ejemplo: 'IP55')"}
+    ]
+  },
+
+  "p1_3": {
+    "imagenes": ["imagenes/imagen1.png", "imagenes/imagen2.png", "imagenes/imagen3.png"],
+    "pregunta":"Compara estos tres motores: ¿cuál tiene mayor potencia, cuál gira a más RPM y cuáles son monofásicos o trifásicos? Responde en máximo 10 líneas."
+  },
+
+  "p1_4": {
+    "imagen_valida": "imagenes/imagen1.png",
+    "modelo_sin_vision": "openai/gpt-oss-120b"
+  }
+}
