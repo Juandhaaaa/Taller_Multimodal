@@ -13,7 +13,6 @@ cp .env.example .env        # en Windows: copy .env.example .env
 ```
 
 Edita `.env` y pon tu clave en `GROQ_API_KEY` (créala en https://console.groq.com/keys).
-**El archivo `.env` está en `.gitignore`: nunca lo subas.**
 
 ### Variables de entorno
 
